@@ -11,7 +11,7 @@ public class maxProfit {
         return res;
     }
 
-    public static void main(String[] args) {
+public static void main(String[] args) {
         int[] prices1 = {100, 180, 260, 310, 40, 535, 695};
         int[] prices2 = {4, 2, 2, 2, 4};
         int[] prices3 = {7, 1, 5, 3, 6, 4};
